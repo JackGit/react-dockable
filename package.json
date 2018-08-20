@@ -1,0 +1,25 @@
+{
+  "name": "react-dockable",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackgit/react-dockable.git"
+  },
+  "keywords": [
+    "react",
+    "dockable",
+    "modal",
+    "dialog"
+  ],
+  "author": "ygjack414@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackgit/react-dockable/issues"
+  },
+  "homepage": "https://github.com/jackgit/react-dockable#readme"
+}
